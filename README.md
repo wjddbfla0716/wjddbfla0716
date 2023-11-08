@@ -1,6 +1,6 @@
 ### Hello, World! It's YuRim!!👍👍👍👍
-안녕하세요! 현재 경북소프트웨어고등학교를 진학 중인 정유림이라고 합니다!!
-
+Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!
+* * *
 ### -MY EXPERIENCE-
 
 <!--
