@@ -5,8 +5,9 @@ Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!
 ### -학력-
 - 대구불로초등학교 졸업
 - 대구불로중학교 졸업
-- 경북소프트웨어고등학교 재학 중
-
+- 경북소프트웨어고등학교 재학 중<br/>
+* * *
+<br/><br/>
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
