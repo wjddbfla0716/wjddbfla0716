@@ -1,4 +1,4 @@
-### Hello, World! It's YuRom!! 👋
+### Hello, World! It's YuRim!! 👋
 
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
