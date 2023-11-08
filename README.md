@@ -2,7 +2,10 @@
 안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다!
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!
 * * *
-### -MY EXPERIENCE-
+### -학력-
+- 대구불로초등학교 졸업
+- 대구불로중학교 졸업
+- 경북소프트웨어고등학교 재학 중
 
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
