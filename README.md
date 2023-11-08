@@ -7,7 +7,7 @@ Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
 - 경북소프트웨어고등학교 재학 중<br/>
 * * *
 <br/>
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+ #512BD4
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
