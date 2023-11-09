@@ -3,11 +3,11 @@
 **안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!** <br/><br/>
 ### -STUDYING-
-<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-FF0000.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-390091.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
  <br/>
 * * *
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#390091&height=100&section=footer&fontSize=70&animation=twinkling&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=100&section=footer&fontSize=70&animation=twinkling&fontAlignY=20" />
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
