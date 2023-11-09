@@ -1,13 +1,14 @@
 # **Hello, World! It's YuRim!!👍👍👍👍** <br/> <br/>
 안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
-### -학력-
-- 대구불로초등학교 졸업
-- 대구불로중학교 졸업
-- 경북소프트웨어고등학교 재학 중<br/>
+### -STUDYING-
+ <br/>
 * * *
 <br/>
-
+- https://img.shields.io/badge/just%20the%20message-8A2BE2
+- https://img.shields.io/badge/just%20the%20message-8A2BE2
+- https://img.shields.io/badge/just%20the%20message-8A2BE2
+- https://img.shields.io/badge/just%20the%20message-8A2BE2
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
