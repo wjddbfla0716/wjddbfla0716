@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20World!-nl-It's%20YuRim%20Jeong&fontSize=70&animation=twinkling&fontColor=FFFFFF&stroke=00FF00" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20World!-nl-It's%20YuRim%20Jeong&fontSize=70&animation=twinkling&fontColor=FFFFFF&stroke=FF0000" />
 
 # **Hello, World! It's YuRim!!👍👍👍👍** <br/> <br/>
 안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
