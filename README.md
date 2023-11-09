@@ -5,7 +5,7 @@ Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
  <br/>
 * * *
 <br/>
-<badgeContent></badgeContent>
+![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
