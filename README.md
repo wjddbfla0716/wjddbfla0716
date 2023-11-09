@@ -5,10 +5,7 @@ Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
  <br/>
 * * *
 <br/>
-- https://img.shields.io/badge/just%20the%20message-8A2BE2
-- https://img.shields.io/badge/just%20the%20message-8A2BE2
-- https://img.shields.io/badge/just%20the%20message-8A2BE2
-- https://img.shields.io/badge/just%20the%20message-8A2BE2
+<badgeContent></badgeContent>
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
