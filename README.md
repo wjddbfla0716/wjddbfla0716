@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 # **Hello, World! It's YuRim!!👍👍👍👍** <br/> <br/>
 안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
@@ -5,7 +7,6 @@ Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool! <br/><br/>
  <br/>
 * * *
 <br/>
-![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
 **wjddbfla0716/wjddbfla0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
