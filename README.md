@@ -3,7 +3,7 @@
 **안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!** <br/><br/>
 ### -STUDYING-
-<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-390091.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-4c4c4c.svg?&style=for-the-badge&logo=Unity&logoColor=white"/> <img alt="BLENDER" src ="https://img.shields.io/badge/BLENDER-ea7600.svg?&style=for-the-badge&logo=BLENDER&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-00599c.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="HTML" src ="https://img.shields.io/badge/HTML-e44d26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-264de4.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-390091.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-4c4c4c.svg?&style=for-the-badge&logo=Unity&logoColor=white"/> <img alt="BLENDER" src ="https://img.shields.io/badge/BLENDER-ea7600.svg?&style=for-the-badge&logo=BLENDER&logoColor=white"/> <img alt="ASEPRITE" src ="https://img.shields.io/badge/ASEPRITE-7D929E.svg?&style=for-the-badge&logo=ASEPRITE&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-00599c.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="HTML" src ="https://img.shields.io/badge/HTML-e44d26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-264de4.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
  <br/>
 * * *
 <br/>
