@@ -3,7 +3,7 @@
 **안녕하세요! 경북소프트웨어고등학교에 재학 중인 정유림입니다! <br/>
 Hello! I'm Jeong Yu-Rim from GyeongBuk Software HighSchool!** <br/><br/>
 ### -STUDYING-
-<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-390091.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-390091.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-390091.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-#4c4c4c.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
  <br/>
 * * *
 <br/>
