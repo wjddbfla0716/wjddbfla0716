@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header" />
 
 **안녕하세요!<br/>
 Hello!** <br/><br/>
