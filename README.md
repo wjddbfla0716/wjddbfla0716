@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=250&section=header&text=Hello%20World!-nl-It's%20YuRim%20Jeong&fontSize=70&animation=twinkling&fontColor=FFFFFF&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=250&section=header&text=Hello%20World! />
 
 **안녕하세요!<br/>
 Hello!** <br/><br/>
